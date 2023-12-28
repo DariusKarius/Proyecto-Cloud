@@ -1,0 +1,8 @@
+reservas_frontend@0.1.0 C:\Users\PC\Desktop\reservas_frontend
+├── eslint-config-next@13.4.1
+├── eslint@8.40.0
+├── next@13.4.1
+├── react-datepicker@4.11.0
+├── react-dom@18.2.0
+└── react@18.2.0
+
